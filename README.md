@@ -23,53 +23,53 @@ Ziel ist es, komplexe Krankenhausdaten übersichtlich darzustellen, regionale Un
 
 Die Übersichtsseite stellt zentrale Kennzahlen und Informationen der Analyse kompakt dar.
 
-![Krankenhaus Übersicht](KH%20Übersicht.png)
+![Krankenhaus Übersicht](01_KH_Übersicht.png)
 
 ## Krankenhausstandorte
 
 Darstellung und Analyse von Krankenhausstandorten.
 
-![Krankenhausstandorte](Krankenhausstandorte.png)
+![Krankenhausstandorte](02_Krankenhausstandorte.png)
 
 ## Analyse nach Bundesland
 
 Die Daten können regional nach Bundesländern ausgewertet und miteinander verglichen werden.
 
-![Krankenhäuser nach Bundesland](KH%20nach%20Bundesland.png)
+![Krankenhäuser nach Bundesland](07_KH_nach_Bundesland.png)
 
 ## Kartenanalyse
 
 Die geografische Darstellung ermöglicht einen schnellen Überblick über die regionale Verteilung der analysierten Daten.
 
-![Karte nach Bundesland](Karte%20nach%20Bundesland.png)
+![Karte nach Bundesland](06_Karte_nach_Bundesland.png)
 
 ## Krankenhausprofil
 
 Detailansicht zur gezielten Betrachtung einzelner Krankenhäuser und relevanter Kennzahlen.
 
-![Krankenhausprofil](Krankenhausprofil.png)
+![Krankenhausprofil](04_Krankenhausprofil.png)
 
 ## Vergleiche
 
 Die Vergleichsansicht unterstützt die Gegenüberstellung ausgewählter Kennzahlen und Merkmale.
 
-![Vergleiche](Vergleiche.png)
+![Vergleiche](05_Vergleiche.png)
 
 ## Informationstafel
 
 Zusätzliche Informationen und Kennzahlen werden übersichtlich innerhalb des Dashboards bereitgestellt.
 
-![Informationstafel](Informationstafel.png)
+![Informationstafel](03_Informationstafel.png)
 
 ## Weiterführende Analyse
 
 Ergänzende Analyseansichten ermöglichen eine vertiefte Untersuchung der Daten.
 
-![Weiterführende Analyse](Weiterführende%20Analyse.png)
+![Weiterführende Analyse](08_Weiterführende_Analyse.png)
 
 ## Power-BI-Projektdatei
 
-Die zugehörige Power-BI-Projektdatei (`.pbix`) ist ebenfalls Bestandteil dieses Repositorys.
+Die zugehörige Power-BI-Projektdatei `PowerBI_Qualitaets_Muster_Finder.pbix` ist ebenfalls Bestandteil dieses Repositorys.
 
 ## Projektfokus
 
